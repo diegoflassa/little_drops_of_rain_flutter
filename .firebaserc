@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "littledropsofrain-site"
+  },
+  "targets": {
+    "littledropsofrain-site": {
+      "hosting": {
+        "littledropsofrain-store": [
+          "littledropsofrain-store"
+        ]
+      }
+    }
+  }
+}
