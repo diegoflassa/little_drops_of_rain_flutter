@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-core:11.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/transforms-3/7e38abdd6c166f82975afde18f3d4fc0/transformed/jetified-facebook-core-11.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/transforms-3/f87d4ce9b4abbc7202a0ed87386dab4f/transformed/jetified-facebook-core-11.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/transforms-3/f87d4ce9b4abbc7202a0ed87386dab4f/transformed/jetified-facebook-core-11.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/transforms-3/f87d4ce9b4abbc7202a0ed87386dab4f/transformed/jetified-facebook-core-11.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/modules-2/files-2.1/com.facebook.android/facebook-core/11.0.0/af60fff4f6f45273d6e1aa86f798ffb50968064d/facebook-core-11.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Repositories/gradle-repository/caches/modules-2/files-2.1/com.facebook.android/facebook-core/11.0.0/66c51b9b2cf62648ca607edcb42880403dd0bca9/facebook-core-11.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="main.dart web-server" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="-d web-server --profile --web-port=8080 --web-hostname 0.0.0.0" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>
