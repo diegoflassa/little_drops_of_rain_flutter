@@ -1,0 +1,61 @@
+#include: package:effective_dart/analysis_options.yaml
+#include: package:very_good_analysis/analysis_options.yaml
+include: package:pedantic/analysis_options.yaml
+#include: package:lint/analysis_options.yaml
+#include: package:extra_pedantic/analysis_options.yaml
+#include: package:flutter_lints/flutter.yaml
+
+analyzer:
+
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+  errors:
+    # treat missing required parameters as a warning (not a hint)
+    missing_required_param: warning
+    # treat missing returns as a warning (not a hint)
+    missing_return: warning
+    # allow having TODOs in the code
+    todo: ignore
+    undefined_prefixed_name: ignore
+
+  exclude:
+    - "bin/cache/**"
+
+  enable-experiment:
+    - triple-shift
+    - variance
+    - nonfunction-type-aliases
+    - value-class
+    - generic-metadata
+    - extension-types
+    - const-functions
+
+linter:
+  rules:
+    avoid_bool_literals_in_conditional_expressions: false
+    avoid_catching_errors: false
+    avoid_catches_without_on_clauses: false
+    avoid_function_literals_in_foreach_calls: false
+    avoid_field_initializers_in_const_classes: false
+    avoid_implementing_value_types: false
+    avoid_positional_boolean_parameters: false
+    avoid_unused_constructor_parameters: false
+    cascade_invocations: false
+    constant_identifier_names: false
+    import_of_legacy_library_into_null_safe: false
+    implementation_imports: false
+    one_member_abstracts: false
+    parameter_assignments: false
+    prefer_constructors_over_static_methods: false
+    prefer_function_declarations_over_variables: false
+    prefer_relative_imports: false
+    public_member_api_docs: false
+    lines_longer_than_80_chars: false
+    avoid_type_to_string: true
+    prefer_const_declarations: true
+    prefer_is_not_operator: true
+    sized_box_for_whitespace: true
+    unnecessary_await_in_return: true
+    use_key_in_widget_constructors: true

@@ -1,0 +1,151 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'com.google.firebase.crashlytics'
+apply plugin: 'com.google.gms.google-services'  // Google Services plugin
+// Apply the App Distribution Gradle plugin
+apply plugin: 'com.google.firebase.appdistribution'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+// Creates a variable called keystorePropertiesFile, and initializes it to the
+// keystore.properties file.
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+
+// Initializes a new Properties() object called keystoreProperties.
+def keystoreProperties = new Properties()
+
+// Loads the keystore.properties file into the keystoreProperties object.
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+android {
+    compileSdkVersion 31
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    Properties versionProps = new Properties()
+    def versionPropsFile = file('./../../assets/version.properties')
+    if (versionPropsFile.exists())
+        versionProps.load(new FileInputStream(versionPropsFile))
+    def code = (versionProps['VERSION_CODE'] ?: "0").toInteger() + 1
+    versionProps['VERSION_CODE'] = code.toString()
+    versionProps.store(versionPropsFile.newWriter(), null)
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "app.web.diegoflassa_site.littledropsofrain.little_drops_of_rain_flutter"
+        minSdkVersion 23
+        targetSdkVersion 31
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+
+    signingConfigs {
+        // DFL - Configuração para assinar o APK. Nao se preocupe agora
+        release {
+            storeFile file(keystoreProperties['KEYSTORE_FILE'])
+            storePassword keystoreProperties['KEYSTORE_PASSWORD']
+            keyAlias keystoreProperties['KEYSTORE_ALIAS']
+            keyPassword keystoreProperties['KEY_PASSWORD']
+            v2SigningEnabled true
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            // to shrink your image resource read more at
+            // https://developer.android.com/studio/build/shrink-code
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+            firebaseAppDistribution {
+                releaseNotesFile = "${project.rootDir}/../releaseNotes/releaseNotes.txt"
+                testers = "diegoflassa@gmail.com, andrea.setecinco@gmail.com"
+            }
+        }
+
+        debug {
+            firebaseAppDistribution {
+                releaseNotesFile = "${project.rootDir}/../releaseNotes/releaseNotes.txt"
+                testers = "diegoflassa@gmail.com, andrea.setecinco@gmail.com"
+            }
+        }
+
+        android.applicationVariants.all { variant ->
+            variant.outputs.all {
+                def appName = "theheroesbook"
+                outputFileName = "${appName}-${outputFileName}"
+            }
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_15
+        targetCompatibility JavaVersion.VERSION_15
+    }
+    buildToolsVersion '31.0.0'
+}
+
+//Avoid the uploadCrashlyticsMappingFile error
+afterEvaluate {
+    def appExtension = extensions.findByName("android")
+    appExtension.applicationVariants.each { variant ->
+        Task uploadCrashlyticsTask = tasks.findByName("uploadCrashlyticsMappingFile${variant.name.capitalize()}")
+        Task packageTask = tasks.findByName("package${variant.name.capitalize()}")
+        Task packageBundleTask = tasks.findByName("package${variant.name.capitalize()}Bundle")
+        if (uploadCrashlyticsTask != null && packageTask != null) {
+            println packageTask.name
+            uploadCrashlyticsTask.mustRunAfter(packageTask)
+        }
+        if (uploadCrashlyticsTask != null && packageBundleTask != null) {
+            println packageBundleTask.name
+            uploadCrashlyticsTask.mustRunAfter(packageBundleTask)
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21"
+    implementation "com.facebook.android:facebook-core:11.0.0"
+    implementation "com.facebook.android:facebook-login:11.0.0"
+    implementation "com.google.guava:guava:30.1.1-jre"
+
+    // Import the BoM for the Firebase platform
+    implementation platform("com.google.firebase:firebase-bom:28.2.1")
+    // Declare the dependencies for the Crashlytics and Analytics libraries
+    // When using the BoM, you don't specify versions in Firebase library dependencies
+    implementation "com.google.firebase:firebase-crashlytics-ktx"
+    implementation "com.google.firebase:firebase-analytics-ktx"
+
+    implementation 'com.google.firebase:firebase-appcheck-safetynet:16.0.0-beta02'
+}
