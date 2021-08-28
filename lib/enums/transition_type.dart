@@ -1,0 +1,1 @@
+enum TransitionType { FADE, SLIDE, SCALE, ROTATION, SIZE, HERO }

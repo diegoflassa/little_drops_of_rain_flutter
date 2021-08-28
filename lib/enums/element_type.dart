@@ -1,0 +1,1 @@
+enum ElementType { PRODUCT, UNKNOWN }

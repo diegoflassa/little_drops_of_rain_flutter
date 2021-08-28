@@ -1,4 +1,4 @@
-name: little_drops_of_rain_web
+name: little_drops_of_rain_flutter
 description: Web Versions of the Little Drops Of Rain Store
 
 # The following line prevents the package from being accidentally published to
@@ -21,12 +21,23 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  animations: ^2.0.0
+  # For the list products
+  auto_size_text: ^2.1.0
   cloud_firestore: ^2.0.0
+  # For the drawer's expansion tile
+  configurable_expansion_tile: ^1.0.0
+  # To know if there is internet connection
+  connectivity: ^3.0.3
   # Image Cropper for IOs Android and Web
   crop: ^0.5.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  # Get the current locale of the device
+  devicelocale: ^0.4.1
+  # For removing the diacritics from the file names in Firebase
+  diacritic: ^0.1.3
   # For the blocks states
   equatable: ^2.0.0
   # For the static analysis tool
@@ -47,26 +58,65 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^7.0.0
+  # For the image caching
+  flutter_cache: ^0.1.0
   flutter_facebook_auth: ^3.3.0+2
   flutter_facebook_login: ^3.0.0
   flutter_facebook_login_web: ^0.2.1+1
   flutter_launcher_icons: ^0.9.0
   flutter_localizations:
     sdk: flutter
+  # For the login buttons
+  flutter_signin_button: ^2.0.0
+  # For loading svg files
+  flutter_svg: ^0.22.0
+  flutter_twitter_login: ^1.1.0
+  # Icon packs
+  fluttericon: ^2.0.0
+  # For the Pix integration
+  gerencianet: ^1.1.1
+  # Locator service
+  get_it: ^7.1.3
   # For the google sign in saving and retrieval
   google_sign_in: ^5.0.1
+  # For the paypal
+  http_auth: ^1.0.1
+  # Image Cropper for Web
+  image_crop_widget: ^0.0.6
+  # Image Cropper for IOs Android only
+  image_cropper: ^1.4.0
+  # Image Picker
+  image_picker: ^0.8.0+1
   # For the i18n
   intl_translation: ^0.17.10+1
   # For the entities
   json_annotation: ^4.0.1
+  # Language Picker
+  language_pickers: ^0.2.0+1
+  # For the logs
+  logger: ^1.0.0
   # For the static analysis tool
   pedantic: ^1.11.0
+  # For checking the permission to read from storage
+  permission_handler: ^8.0.0+1
+  # For the popup menus
+  popup_menu: ^1.0.5
   # For the bloc
   rxdart: ^0.27.0
+  # For the paypal
+  shared_preferences: ^2.0.6
+  # For the settings page
+  settings_ui: ^1.0.0
   # For the models
   states_rebuilder: ^4.0.0+1
+  # For the go_back_widget
+  url_launcher: ^6.0.2
+  # For validating email and names
+  validated: ^2.0.0
   # For the static analysis tool
   very_good_analysis: ^2.0.0
+  # For the paypal
+  webview_flutter: ^2.0.10
 
 dependency_overrides:
   meta: ^1.7.0

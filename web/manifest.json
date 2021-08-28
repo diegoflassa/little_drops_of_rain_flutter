@@ -1,6 +1,6 @@
 {
-    "name": "little_drops_of_rain_web",
-    "short_name": "little_drops_of_rain_web",
+    "name": "little_drops_of_rain_flutter",
+    "short_name": "little_drops_of_rain_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

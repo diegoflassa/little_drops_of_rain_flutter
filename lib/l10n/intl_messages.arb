@@ -1,0 +1,1498 @@
+{
+  "@@last_modified": "2021-08-12T07:30:09.283842",
+  "pleaseUseTheMenuToNavigateBackInThisPage": "Please use the menu to navigate back in this page",
+  "@pleaseUseTheMenuToNavigateBackInThisPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorMeasuringSpeed": "There was a error during the measurement of the speed",
+  "@errorMeasuringSpeed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "speedOk": "Your internet speed appears to be all right",
+  "@speedOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "slowSpeed": "It looks like your speed is slow. The data may take a while to load",
+  "@slowSpeed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "testingSpeedConnection": "Testing speed connection...",
+  "@testingSpeedConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "looksLikeItIsTakingALongTimeRetrying": "It looks like this operation is taking a long time. We will retry it. ",
+  "@looksLikeItIsTakingALongTimeRetrying": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "looksLikeItIsTakingALongTimeReload": "It looks like this operation is taking a long time. Try reloading the page.",
+  "@looksLikeItIsTakingALongTimeReload": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "looksLikeItIsTakingALongTimeReselectUniverse": "It looks like this operation is taking a long time. Try reselecting the universe",
+  "@looksLikeItIsTakingALongTimeReselectUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToRetrieveLoginInformation": "Unable to retrieve login information",
+  "@unableToRetrieveLoginInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSaveLoginInformation": "Unable to save login information",
+  "@unableToSaveLoginInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetImage": "Reset",
+  "@resetImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidLink": "Invalid Link:",
+  "@invalidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noUniverseFound": "Universe not found:",
+  "@noUniverseFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noStoryFound": "Story not found:",
+  "@noStoryFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noProductFound": "Product not found:",
+  "@noProductFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pageTransitionTypeTitle": "Page Transition",
+  "@pageTransitionTypeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pageTransitionTypeMessage": "Please choose the desired transition for the pages",
+  "@pageTransitionTypeMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pageTransition": "Page Transition",
+  "@pageTransition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardToDetailsTransition": "Card to Details Transition",
+  "@cardToDetailsTransition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetAnimationsSettings": "Reset animations settings",
+  "@resetAnimationsSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeDilationValueTitle": "Time Dilation:",
+  "@timeDilationValueTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeDilationValueMessage": "Use this to slow down or up the application's animations",
+  "@timeDilationValueMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentValue": "Current Value:",
+  "@currentValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hyperSlow": "Hyper Slow (50.0x)",
+  "@hyperSlow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ultraSlow": "Ultra Slow (30.0x)",
+  "@ultraSlow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "megaSlow": "Mega Slow (15.0x)",
+  "@megaSlow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verySlow": "Very Slow (10.0x)",
+  "@verySlow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "slow": "Slow (5.0x)",
+  "@slow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "normal": "Normal (1.0x)",
+  "@normal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fast": "Fast (0.5x)",
+  "@fast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "veryFast": "Very Fast (0.1x)",
+  "@veryFast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fade": "Fade",
+  "@fade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scale": "Scale",
+  "@scale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "slide": "Slide",
+  "@slide": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Size",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rotation": "Rotation",
+  "@rotation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "product": "Product",
+  "@product": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fadeThrough": "Fade Through",
+  "@fadeThrough": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardToDetailsTransitionTypeTitle": "Transition Types",
+  "@cardToDetailsTransitionTypeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardToDetailsTransitionTypeMessage": "Please choose the type of the transition",
+  "@cardToDetailsTransitionTypeMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentTransition": "Current Transition:",
+  "@currentTransition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeDilation": "Time Dilation",
+  "@timeDilation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "animations": "Animations",
+  "@animations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "compressLevelValueTitle": "Compression Level (from 1 to 9):",
+  "@compressLevelValueTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "compressLevelValueMessage": "Choose the compression level of the GZip, from 1 to 9, where the higher the number, the most the compression will be. It will only be applied to new downloaded files. If desired, clear the cache.",
+  "@compressLevelValueMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentCompressionLevel": "Current Compression Level (from 1 to 9):",
+  "@currentCompressionLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "compressionLevel": "Compression Level",
+  "@compressionLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableCompression": "Enable Compression",
+  "@enableCompression": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "compressionExplanation": "If enabled, compress the files prior to storing it. Note that previous downloaded images will be kept as is. If desired, clear the cache.",
+  "@compressionExplanation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemsCount": "Items:",
+  "@itemsCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeUpdated": "Universe updated!",
+  "@universeUpdated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyUpdated": "Story updated!",
+  "@storyUpdated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheSize": "Cache Size:",
+  "@cacheSize": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productUpdated": "Product updated!",
+  "@productUpdated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetCacheConfirmationTitle": "Reset Cache Settings",
+  "@resetCacheConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetCacheConfirmationMessage": "Are you sure tha you want to reset the cache settings to its original values?",
+  "@resetCacheConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetCacheSettings": "Reset cache settings",
+  "@resetCacheSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSet": "Not Set",
+  "@notSet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ttlExplanation": "TTL: Time To Live. The period of time where the object is valid",
+  "@ttlExplanation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheTTLValueTitle": "Cache TTL value",
+  "@cacheTTLValueTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheTTLValueMessage": "Max period, in minutes",
+  "@cacheTTLValueMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "infinite": "Infinite",
+  "@infinite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheTTL": "Cache TTL",
+  "@cacheTTL": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableCacheTTL": "Enable Cache TTL",
+  "@enableCacheTTL": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minutes": "Minutes",
+  "@minutes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheAutoUpdateIntervalHint": "Interval, in minutes",
+  "@cacheAutoUpdateIntervalHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheAutoUpdateIntervalTitle": "Cache Auto Update Interval",
+  "@cacheAutoUpdateIntervalTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheAutoUpdateIntervalMessage": "Select the desired update interval ( in minutes )",
+  "@cacheAutoUpdateIntervalMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearCacheConfirmationTitle": "Clear Image Cache",
+  "@clearCacheConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearCacheConfirmationMessage": "Are you sure that you want to clear the images cache?",
+  "@clearCacheConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearCache": "Clear Cache",
+  "@clearCache": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagesCache": "Images Cache",
+  "@imagesCache": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableCache": "Enable Cache",
+  "@enableCache": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableCacheAutoUpdate": "Cache Auto Update",
+  "@enableCacheAutoUpdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cacheAutoUpdateInterval": "Cache Auto Update Interval",
+  "@cacheAutoUpdateInterval": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberOfProducts": "Number of products",
+  "@numberOfProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "apply": "Apply",
+  "@apply": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "Country",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInContactWithUs": "Get In Contact With Us",
+  "@getInContactWithUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailPasswordSignIn": "Email Password Sign In",
+  "@emailPasswordSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailReset": "Email to reset",
+  "@emailReset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInTouchThroughSocial": "Get in touch with us throught the social pages below",
+  "@getInTouchThroughSocial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendingMessage": "Sending message",
+  "@sendingMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Send",
+  "@send": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterMessage": "Please Enter Message",
+  "@pleaseEnterMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactMessage": "Message",
+  "@contactMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactEmail": "Contact Email",
+  "@contactEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailSignUp": "Email Sign Up",
+  "@emailSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterConfirmationCode": "Enter Confirmation Code",
+  "@enterConfirmationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetCode": "Reset Code",
+  "@resetCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterResetCode": "Please Enter Reset Code",
+  "@pleaseEnterResetCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reset": "Reset",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickToSaveUser": "Click to save user",
+  "@clickToSaveUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doesNotHaveAnAccount": "Does not have an account? Sign up!",
+  "@doesNotHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alreadyHaveAnAccount": "Already have an account? Sign in!",
+  "@alreadyHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orIfYouWishSignIn": "Or if you wish, Sign In",
+  "@orIfYouWishSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orIfYouWishSignUp": "Or if you wish, Sign Up",
+  "@orIfYouWishSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rememberMe": "Remember me",
+  "@rememberMe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePasswordsMustMatch": "The Passwords must match",
+  "@thePasswordsMustMatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noComments": "No Comments",
+  "@noComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorLoadingAd": "Error loading ad",
+  "@errorLoadingAd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alphabetically": "Alphabetically",
+  "@alphabetically": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "random": "Random",
+  "@random": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descending",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creationDate": "Creation Date",
+  "@creationDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updateDate": "Update Date",
+  "@updateDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "Rating",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productUIDMustNotBeNull": "Product uid must not be null",
+  "@productUIDMustNotBeNull": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharingNotSupported": "Sharing Not Supported",
+  "@sharingNotSupported": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBrowserDoesNotSupportShare": "Your browser does not support Share",
+  "@yourBrowserDoesNotSupportShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "created": "Created:",
+  "@created": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updated": "Updated:",
+  "@updated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareProduct": "Share product",
+  "@shareProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unavailable": "Unavailable",
+  "@unavailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "performanceOverlay": "Performance Overlay",
+  "@performanceOverlay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "materialGrid": "Material Grid",
+  "@materialGrid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "semanticsDebugger": "Semantics Debugger",
+  "@semanticsDebugger": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoffConfirmationTitle": "Logoff",
+  "@logoffConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoffConfirmationMessage": "Are you sure that you want to logoff?",
+  "@logoffConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authentication": "Authentication",
+  "@authentication": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "by": "by",
+  "@by": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writtenIn": "Written in",
+  "@writtenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Details",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comments": "Comments",
+  "@comments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCharacters": "The name contains the following invalid characters:",
+  "@invalidCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "or",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastUpdate": "Last update:",
+  "@lastUpdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmail": "Invalid EMail",
+  "@invalidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dismiss": "Dismiss",
+  "@dismiss": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownError": "Unknown Error",
+  "@unknownError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notTheOwner": "You are not the owner of the element.",
+  "@notTheOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hasReferences": "The element has references to it. Please remove them before deleting. They are: ",
+  "@hasReferences": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doesNotExist": "The element does not exist",
+  "@doesNotExist": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stateNotSupportedError": "State not supported",
+  "@stateNotSupportedError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "Title",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updating": "Updating",
+  "@updating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "console": "Console",
+  "@console": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisPageShouldNotBeVisible": "This Page Should Not Be Visible",
+  "@thisPageShouldNotBeVisible": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votes": "Votes",
+  "@votes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reloadingIn": "Reloading in",
+  "@reloadingIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingStory": "Loading Story...",
+  "@loadingStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingProduct": "Loading Product...",
+  "@loadingProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingUniverse": "Loading Universe...",
+  "@loadingUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingStories": "Loading Stories...",
+  "@loadingStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingProducts": "Loading Products...",
+  "@loadingProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingUniverses": "Loading Universes...",
+  "@loadingUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherName": "The name already exists. Please select another",
+  "@pleaseSelectAnotherName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherCodename": "The name already exists. Please select another",
+  "@pleaseSelectAnotherCodename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherTitle": "The title already exists. Please select another",
+  "@pleaseSelectAnotherTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theNameIsEmpty": "The name must not be empty",
+  "@theNameIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theTitleIsEmpty": "The title must not be empty",
+  "@theTitleIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theCodenameIsEmpty": "The codename must not be empty",
+  "@theCodenameIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseLogIn": "Please Log In",
+  "@pleaseLogIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickBackButton": "Click the back button",
+  "@clickBackButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noElement": "No element found",
+  "@noElement": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyItems": "No items found",
+  "@emptyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDeleted": "Product Deleted!",
+  "@productDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyDeleted": "Story Deleted!",
+  "@storyDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeDeleted": "Universe Deleted!",
+  "@universeDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickHereToGoBack": "Click here to go back",
+  "@clickHereToGoBack": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFurtherInformation": "No further information",
+  "@noFurtherInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorUnknown": "Unknown error",
+  "@errorUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorTranslation": "There was a error translating the page :",
+  "@errorTranslation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "disabled": "Disabled",
+  "@disabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universe": "Universe",
+  "@universe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSaved": "Product saved!",
+  "@productSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storySaved": "Story saved!",
+  "@storySaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeSaved": "Universe saved!",
+  "@universeSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "Search product...",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultLanguage": "Default Language",
+  "@defaultLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "translating": "Translating",
+  "@translating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "licenses": "Licenses",
+  "@licenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noUniverse": "No Universe",
+  "@noUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noLanguage": "No Language",
+  "@noLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "post": "Post",
+  "@post": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comment": "Comment",
+  "@comment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAUniverse": "Please, select a universe",
+  "@pleaseSelectAUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "institutional": "Institutional",
+  "@institutional": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Contact",
+  "@contact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "social": "Social",
+  "@social": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterPassword": "Please, enter Password",
+  "@pleaseEnterPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stories": "Stories",
+  "@stories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorLoginIn": "There was a error during login",
+  "@errorLoginIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmationEmailSent": "A confirmation email has been sent to the address : ",
+  "@confirmationEmailSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteConfirmationTitle": "Delete Item",
+  "@deleteConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteConfirmationMessage": "Are you sure that you want to delete this item?",
+  "@deleteConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFriends": "No Friends",
+  "@noFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noEnemies": "No Enemies",
+  "@noEnemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friends": "Friends:",
+  "@friends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enemies": "Enemies:",
+  "@enemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Delete",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allStories": "All Stories",
+  "@allStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allUniverses": "All Universes",
+  "@allUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "views": "Views",
+  "@views": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "translateTo": "Translate To:",
+  "@translateTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeImage": "Change Image",
+  "@changeImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithPassword": "Sign in With Password",
+  "@signInWithPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithGoogle": "Sign in With Google",
+  "@signInWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithFacebook": "Sign in With Facebook",
+  "@signInWithFacebook": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithTwitter": "Sign in With Twitter",
+  "@signInWithTwitter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "failedSignIn": "Sign in failed",
+  "@failedSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullySignInEmail": "Successfully signed in, email: ",
+  "@successfullySignInEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullySignInUID": "Successfully signed in, uid: ",
+  "@successfullySignInUID": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterEmail": "Please enter your email.",
+  "@pleaseEnterEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailSignIn": "Email Sign In",
+  "@emailSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveNotifications": "Receive Notifications",
+  "@receiveNotifications": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userCountry": "User Country",
+  "@userCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userBirthdate": "User Birthdate",
+  "@userBirthdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNickname": "User Nickname",
+  "@userNickname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userSurename": "User Surename",
+  "@userSurename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userEmail": "User EMail",
+  "@userEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropImage": "Crop Image",
+  "@cropImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCreateuniverse": "Create Universe",
+  "@productCreateuniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropResult": "Crop Result",
+  "@cropResult": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "box": "Box",
+  "@box": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oval": "Oval",
+  "@oval": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropShape": "Crop Shape",
+  "@cropShape": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo": "Undo",
+  "@undo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foregroundObject": "Foreground Object",
+  "@foregroundObject": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "crop": "Crop",
+  "@crop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropFace": "Crop Face",
+  "@cropFace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageSizeTooBig": "The file size is too big: }",
+  "@imageSizeTooBig": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itShouldBeLessThan": "It  should be less than ",
+  "@itShouldBeLessThan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search...",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Select your language",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCreatestory": "Create Story",
+  "@productCreatestory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productStory": "Story",
+  "@productStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productFriends": "Friends",
+  "@productFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productEnemies": "Enemies",
+  "@productEnemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productUniverse": "Universe",
+  "@productUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productProfession": "Profession",
+  "@productProfession": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCivilname": "Civil Name",
+  "@productCivilname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTrainningplace": "Trainning place",
+  "@productTrainningplace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productBirthplace": "Bithplace",
+  "@productBirthplace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productLevel": "Level",
+  "@productLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAge": "Age",
+  "@productAge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productHabilities": "Habilities",
+  "@productHabilities": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCodename": "Codename",
+  "@productCodename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productWeapons": "Weapons",
+  "@productWeapons": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "Name",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publishedSubtitle": "Set true to publish",
+  "@publishedSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unpublished": "Unpublished",
+  "@unpublished": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "published": "Published",
+  "@published": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "level": "Level",
+  "@level": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "age": "Age",
+  "@age": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "Text",
+  "@text": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productFaceimage": "Face Image",
+  "@productFaceimage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productImage": "Image",
+  "@productImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "image": "Image",
+  "@image": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "story": "Story",
+  "@story": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyText": "Please enter story text",
+  "@storyText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterStory": "Please enter story text",
+  "@pleaseEnterStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyTitle": "Story Title",
+  "@storyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickColor": "Pick a Color",
+  "@pickColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty": "Empty",
+  "@empty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStories": "My Stories",
+  "@myStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createStory": "Create Story",
+  "@createStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myUniverses": "My Universes",
+  "@myUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLoggedOut": "User is currently signed out!",
+  "@userLoggedOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLoggedIn": "User Logged In!",
+  "@userLoggedIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving": "Saving",
+  "@saving": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterName": "Please enter a name",
+  "@pleaseEnterName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProducts": "All Products",
+  "@allProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeName": "Name of the universe",
+  "@universeName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeComment": "Comment",
+  "@universeComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universes": "Universes",
+  "@universes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createUniverse": "Create Universe",
+  "@createUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Products",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProducts": "My Products",
+  "@myProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createProduct": "Create a Product",
+  "@createProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "The Productsbook",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

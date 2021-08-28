@@ -1,0 +1,1039 @@
+{
+  "@@locale": "",
+  "@@last_modified": "2020-11-03T12:19:04.222072",
+  "enterConfirmationCode": "Entre com o código de confirmação",
+  "@enterConfirmationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetCode": "Código de Reset",
+  "@resetCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterResetCode": "Por favor, digite o código para Resetar",
+  "@pleaseEnterResetCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reset": "Reset",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickToSaveUser": "Clique para salvar o usuário",
+  "@clickToSaveUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doesNotHaveAnAccount": "Não tem uma conta? Sign up!",
+  "@doesNotHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alreadyHaveAnAccount": "Já possui uma conta? Sign in!",
+  "@alreadyHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orIfYouWishSignIn": "Ou, se preferir, Sign In",
+  "@orIfYouWishSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orIfYouWishSignUp": "Ou, se preferir, Sign Up",
+  "@orIfYouWishSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rememberMe": "Lembrar de mim",
+  "@rememberMe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePasswordsMustMatch": "Os Passwords devem ser iguais",
+  "@thePasswordsMustMatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirme o Password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noComments": "Sem Commentários",
+  "@noComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorLoadingAd": "Erro carregando aunúncios",
+  "@errorLoadingAd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alphabetically": "Alfabeticamente",
+  "@alphabetically": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "random": "Random",
+  "@random": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Ascendente",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descendente",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creationDate": "Data de Criação",
+  "@creationDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updateDate": "Date de Atualização",
+  "@updateDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "Rating",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productUIDMustNotBeNull": "A uid do Herói não deve ser nula",
+  "@productUIDMustNotBeNull": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBrowserDoesNotSupportShare": "Seu navegador não suporta Compartilhamento",
+  "@yourBrowserDoesNotSupportShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "created": "Criado:",
+  "@created": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updated": "Atualizado:",
+  "@updated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareProduct": "Compartilhe o herói",
+  "@shareProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unavailable": "Indisponível",
+  "@unavailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "performanceOverlay": "Sobreposição de Performance",
+  "@performanceOverlay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "materialGrid": "Rede Material",
+  "@materialGrid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "semanticsDebugger": "Depurador Semântico",
+  "@semanticsDebugger": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoffConfirmationTitle": "Logoff",
+  "@logoffConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoffConfirmationMessage": "Tem certeza que deseja fazer logoff?",
+  "@logoffConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Sim",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Não",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authentication": "Autenticação",
+  "@authentication": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "by": "por",
+  "@by": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writtenIn": "Escrito em",
+  "@writtenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Detalhes",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comments": "Commentários",
+  "@comments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCharacters": "O nome contém os seguintes caracteres inválidos:",
+  "@invalidCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "ou",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastUpdate": "Última atualização:",
+  "@lastUpdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmail": "EMail Inválido",
+  "@invalidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dismiss": "Dispensar",
+  "@dismiss": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notTheOwner": "Você não é o dono do elemento.",
+  "@notTheOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hasReferences": "O elemento possui referências a ele. Por favor, remová-as antes de deletá-lo. Elas são: ",
+  "@hasReferences": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doesNotExist": "O elemento não existe",
+  "@doesNotExist": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stateNotSupportedError": "Estado não suportado",
+  "@stateNotSupportedError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "Título",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updating": "Atualizando",
+  "@updating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "console": "Console",
+  "@console": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisPageShouldNotBeVisible": "Esta página não deveria ser visível",
+  "@thisPageShouldNotBeVisible": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Erro",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votes": "Votos",
+  "@votes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "Sem conexão com a Internet",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reloadingIn": "Recarregando em",
+  "@reloadingIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Carregando...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingStory": "Carregando História...",
+  "@loadingStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingProduct": "Carregando Herói...",
+  "@loadingProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingUniverse": "Carregando Universo...",
+  "@loadingUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingStories": "Carregando Histórias...",
+  "@loadingStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingProducts": "Carregando Heróis...",
+  "@loadingProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingUniverses": "Carregando Universos...",
+  "@loadingUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Enviar",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Idioma",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherName": "O nome já existe. Por favor, selecione outro",
+  "@pleaseSelectAnotherName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherCodename": "O título já existe. Por favor, selecione outro",
+  "@pleaseSelectAnotherCodename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAnotherTitle": "O codenome já existe. Por favor, selecione outro",
+  "@pleaseSelectAnotherTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theNameIsEmpty": "O nome não deve ser vazio",
+  "@theNameIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theTitleIsEmpty": "O titulo não deve ser vazio",
+  "@theTitleIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theCodenameIsEmpty": "O codenome não deve ser vazio",
+  "@theCodenameIsEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseLogIn": "Por favor Log In",
+  "@pleaseLogIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickBackButton": "Clique no botão 'voltar'",
+  "@clickBackButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyItems": "Nenhum ítem encontrado",
+  "@emptyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDeleted": "Herói Deletado!",
+  "@productDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyDeleted": "História Deletada!",
+  "@storyDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeDeleted": "Universo Deletado!",
+  "@universeDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickHereToGoBack": "Clique aqui para voltar",
+  "@clickHereToGoBack": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFurtherInformation": "Sem informações adicionais",
+  "@noFurtherInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorUnknown": "Erro desconhecido",
+  "@errorUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorTranslation": "Houve um erro traduzindo esta página :",
+  "@errorTranslation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "disabled": "Desabilitado",
+  "@disabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universe": "Universo",
+  "@universe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSaved": "Herói salvo!",
+  "@productSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storySaved": "História salva!",
+  "@storySaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeSaved": "Universo salvo!",
+  "@universeSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "Pesquisar herói...",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultLanguage": "Idioma padrão",
+  "@defaultLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "translating": "Traduzindo",
+  "@translating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "licenses": "Licensas",
+  "@licenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Configurações",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noUniverse": "Sem Universo",
+  "@noUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noLanguage": "Sem Idioma",
+  "@noLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "post": "Postar",
+  "@post": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comment": "Commentar",
+  "@comment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAUniverse": "Por favor, selecione um universo",
+  "@pleaseSelectAUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "institutional": "Institucional",
+  "@institutional": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "Sobre",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Contato",
+  "@contact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "social": "Social",
+  "@social": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterPassword": "Por favor, entre com o password",
+  "@pleaseEnterPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stories": "Histórias",
+  "@stories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorLoginIn": "Houve um erro durante o login",
+  "@errorLoginIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmationEmailSent": "Um email de confirmação foi enviado para o endereço : ",
+  "@confirmationEmailSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteConfirmationTitle": "Deletar Ítem",
+  "@deleteConfirmationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteConfirmationMessage": "Tem certeza que deseja deletar este ítem?",
+  "@deleteConfirmationMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFriends": "Sem Amigos",
+  "@noFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noEnemies": "Sem Inimigos",
+  "@noEnemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friends": "Amigos:",
+  "@friends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enemies": "Inimigos:",
+  "@enemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirmação",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Editar",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Deletar",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allStories": "Todas as Histórias",
+  "@allStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allUniverses": "Todas os Universos",
+  "@allUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "views": "Visualizações",
+  "@views": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "translateTo": "Traduzir Para:",
+  "@translateTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeImage": "Trocar imagem",
+  "@changeImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithPassword": "Sign in Com Password",
+  "@signInWithPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithGoogle": "Sign in Com Google",
+  "@signInWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithFacebook": "Sign in Com Facebook",
+  "@signInWithFacebook": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithTwitter": "Sign in Com Twitter",
+  "@signInWithTwitter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProfile": "Meu Perfil",
+  "@myProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "failedSignIn": "Falha ao sign in",
+  "@failedSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullySignInEmail": "Sign in efetuado com sucesso, email: ",
+  "@successfullySignInEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullySignInUID": "Sign in efetuado com sucesso, uid: ",
+  "@successfullySignInUID": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterEmail": "Por favor, digite seu email.",
+  "@pleaseEnterEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailSignIn": "Email Sign In",
+  "@emailSignIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveNotifications": "Receber Notificações",
+  "@receiveNotifications": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userCountry": "Naconalidade",
+  "@userCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userBirthdate": "Aniversário",
+  "@userBirthdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNickname": "Apelido",
+  "@userNickname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userSurename": "Sobrenome",
+  "@userSurename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userEmail": "EMail",
+  "@userEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "Nome",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropImage": "Cortar Imagem",
+  "@cropImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCreateuniverse": "Criar Universo",
+  "@productCreateuniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropResult": "Resultado da Cortagem",
+  "@cropResult": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "box": "Caixa",
+  "@box": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oval": "Oval",
+  "@oval": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropShape": "Forma de Corte",
+  "@cropShape": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo": "Desfazer",
+  "@undo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foregroundObject": "Objeto de Primeiro Plano",
+  "@foregroundObject": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "crop": "Cortar",
+  "@crop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropFace": "Cortar Face",
+  "@cropFace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageSizeTooBig": "O arquivo é muito grande",
+  "@imageSizeTooBig": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Pesquisar...",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Selecione seu idioma",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCreatestory": "Criar História",
+  "@productCreatestory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productStory": "História",
+  "@productStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productFriends": "Amigos",
+  "@productFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productEnemies": "Inimigos",
+  "@productEnemies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productUniverse": "Universo",
+  "@productUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productProfession": "Profissão",
+  "@productProfession": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCivilname": "Nome Civil",
+  "@productCivilname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTrainningplace": "Local de Treinamento",
+  "@productTrainningplace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productBirthplace": "Local de Nascimento",
+  "@productBirthplace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productLevel": "Nível",
+  "@productLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAge": "Idade",
+  "@productAge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productHabilities": "Habilidades",
+  "@productHabilities": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCodename": "Codenome",
+  "@productCodename": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productWeapons": "Armas",
+  "@productWeapons": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "Nome",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publishedSubtitle": "Selecione para publicar",
+  "@publishedSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "published": "Publicado",
+  "@published": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "level": "Nível",
+  "@level": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "age": "Idade",
+  "@age": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "Texto",
+  "@text": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productFaceimage": "Image da Face",
+  "@productFaceimage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productImage": "Imagem",
+  "@productImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "image": "Imagem",
+  "@image": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "story": "História",
+  "@story": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyText": "Por favor, digite o texto da história",
+  "@storyText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterStory": "Por favor, digite o texto da história",
+  "@pleaseEnterStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storyTitle": "Título da História",
+  "@storyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Fechar",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickColor": "Selecione uma  Cor",
+  "@pickColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty": "Vazio",
+  "@empty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStories": "Minhas Histórias",
+  "@myStories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createStory": "Criar História",
+  "@createStory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myUniverses": "Meus Universos",
+  "@myUniverses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "Cor",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLoggedOut": "Usuário não está logado!",
+  "@userLoggedOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLoggedIn": "Usuário logado!",
+  "@userLoggedIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Salvar",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving": "Salvando",
+  "@saving": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterName": "Por favor, digite um nome",
+  "@pleaseEnterName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProducts": "Todos os Heróis",
+  "@allProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Desconhecido",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nome",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeName": "Nome do universo",
+  "@universeName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universeComment": "Commentário",
+  "@universeComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "universes": "Universos",
+  "@universes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createUniverse": "Criar Universo",
+  "@createUniverse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Heróis",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProducts": "Meus Heróis",
+  "@myProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createProduct": "Criar um Herói",
+  "@createProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "The Productsbook",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

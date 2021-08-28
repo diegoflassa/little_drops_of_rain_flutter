@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=G:\users\Diego\Programming\SDKs\flutter"
-export "FLUTTER_APPLICATION_PATH=G:\users\Diego\Programming\Workspaces\Workspace.AndroidStudio\little_drops_of_rain_web"
+export "FLUTTER_APPLICATION_PATH=G:\users\Diego\Programming\Workspaces\Workspace.Flutter\little_drops_of_rain_flutter"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"

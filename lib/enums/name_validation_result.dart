@@ -1,0 +1,7 @@
+enum NameValidationResult {
+  VALID,
+  INVALID_EMPTY,
+  INVALID_ALREADY_EXISTS,
+  INVALID_CHARACTERS,
+  UNKNOWN
+}

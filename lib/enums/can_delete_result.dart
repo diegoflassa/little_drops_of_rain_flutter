@@ -1,0 +1,7 @@
+enum CanDeleteResult {
+  CAN,
+  CANT_NOT_THE_OWNER,
+  CANT_HAS_REFERENCES,
+  CANT_DOES_NOT_EXISTS,
+  UNKNOWN
+}

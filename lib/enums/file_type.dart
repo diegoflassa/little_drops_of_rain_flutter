@@ -1,0 +1,1 @@
+enum FileType { HERO, HERO_FACE, USER_AVATAR, UNKNOWN }
